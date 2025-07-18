@@ -49,6 +49,9 @@ npm i axios
 npm start
 
 
+📸 Screenshots
+https://github.com/Sakshisahu12/CRUD-web-application/blob/main/Screenshot%20(71).png
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
