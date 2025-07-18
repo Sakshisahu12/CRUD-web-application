@@ -1,3 +1,54 @@
+# React CRUD Web Application
+
+A simple and clean CRUD (Create, Read, Update, Delete) web application built using **React.js**.
+This app demonstrates basic operations such as adding, editing, deleting, and viewing records using a modern frontend stack.
+
+## 🛠️ Tech Stack
+
+- **React.js** (with functional components and hooks)
+- **React Router** (for page navigation)
+- **Context API** 
+- **Tailwind CSS** (for UI styling)
+- **Mock API** (for data persistence)
+
+---
+
+## 🔥 Features
+
+- Create new records
+- Read/view a list of records
+- Update existing records
+- Delete records
+- Responsive UI
+- Clean code with reusable components
+
+---
+.
+
+📁 Folder Structure
+
+react-crud-app/
+├── public/
+├── src/
+│   ├── components/add_component.js
+│   ├── pages/
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+├── package.json
+└── README.md
+
+
+## 📦 Installation
+
+```bash
+cd react-crud-app
+npm install
+npm i @chakra-ui/react@2 @emotion/react @emotion/styled framer-motion
+npm i axios
+npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
